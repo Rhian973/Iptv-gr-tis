@@ -1,0 +1,22 @@
+
+#EXTM3U
+
+# CATEGORIA: SporTV
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-sinal-extra-1.png" group-title="SporTV", SporTV FHD
+http://dns.euviviu.live:80/Diego12/Diego12/3954081
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-sinal-extra-1.png" group-title="SporTV", SporTV HD
+http://dns.euviviu.live:80/Diego12/Diego12/3954082
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-sinal-extra-2.png" group-title="SporTV", SporTV 2 FHD
+http://dns.euviviu.live:80/Diego12/Diego12/3954075
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-sinal-extra-2.png" group-title="SporTV", SporTV 2 HD
+http://dns.euviviu.live:80/Diego12/Diego12/3954076
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-sinal-extra-3.png" group-title="SporTV", SporTV 3 FHD
+http://dns.euviviu.live:80/Diego12/Diego12/3954078
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-sinal-extra-3.png" group-title="SporTV", SporTV 3 HD
+http://dns.euviviu.live:80/Diego12/Diego12/3954079
+
+# CATEGORIA: Telecine
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/tc-action.png" group-title="Telecine", TC Action HD
+http://dns.euviviu.live:80/Diego12/Diego12/3954094
+#EXTINF:-1 tvg-logo="https://img.inboxbr.pro/icones_channels/tc-cult.png" group-title="Telecine", TC Cult HD
+http://dns.euviviu.live:80/Diego12/Diego12/3954097
